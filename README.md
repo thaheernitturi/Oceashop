@@ -1,10 +1,29 @@
-Enjoy the Free Starter code + Assets 😍
-- Video tutorial link : https://youtu.be/4sc6BhgS_Co?feature=shared
-- Support us on YouTube Channel: [https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ](https://www.youtube.com/@TheCodingJourney)
+# 🌊 OceoShop – E-Commerce Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+OceoShop is a modern e-commerce front-end web application designed to deliver a smooth and responsive shopping experience. The project emphasizes scalable architecture, reusable UI components, and clean design principles inspired by real-world e-commerce platforms.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Responsive and user-friendly UI
+- Modular and reusable React components
+- Clean component-based architecture
+- Mobile-first design using Tailwind CSS
+- Scalable structure for future feature expansion
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- HTML5
+- CSS3
+
+## 📂 Project Structure
+- `components/` – Reusable UI components
+- `pages/` – Application views
+- `assets/` – Static assets
+- `styles/` – Global and utility styles
+
+## ⚙️ Installation & Setup
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/oceoshop.git
